@@ -3,6 +3,10 @@
 A full-stack Todo List Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 This app allows users to sign up, sign in, and manage their own personal Todo list securely using JWT authentication.
 
+## Live Demo
+
+Check out the hosted project here: [Todo App Live](https://todoapp-five-peach.vercel.app/)
+
 🚀 Features
 
 ✅ User authentication (Signup & Login) with JWT
