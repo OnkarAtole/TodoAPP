@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import API from "../api.jsx";
+import API from "../api.js";
 import { useNavigate } from "react-router-dom";
 
 export default function Todos() {
