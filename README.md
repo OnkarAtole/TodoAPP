@@ -40,26 +40,8 @@ bcrypt.js (password hashing)
 
 dotenv (environment variables)
 
-📂 Project Structure
-mern-todo-app/
-│
-├── backend/
-│   ├── models/        # Mongoose schemas
-│   ├── routes/        # Express routes
-│   ├── middleware/    # Auth middleware
-│   ├── controllers/   # Business logic
-│   ├── server.js      # Main server file
-│   └── .env           # Environment variables
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/ # Navbar, TodoItem, etc.
-│   │   ├── pages/      # Home, Login, Signup, Todos
-│   │   ├── App.jsx     # Main App
-│   │   └── index.js    # Entry point
-│   └── package.json
-│
-└── README.md
+<img width="495" height="517" alt="image" src="https://github.com/user-attachments/assets/4ffeff9c-c61c-4558-a0e9-a0fe102274c0" />
+
 
 ⚙️ Installation
 1️⃣ Clone the repository
