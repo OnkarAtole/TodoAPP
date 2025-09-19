@@ -5,7 +5,7 @@ This app allows users to sign up, sign in, and manage their own personal Todo li
 
 ## Live Demo
 
-Check out the hosted project here: [Todo App Live](https://todoapp-onkars-projects-73ff0a05.vercel.app/)
+Check out the hosted project here: [Todo App Live](https://todoapp-five-peach.vercel.app/)
 
 🚀 Features
 
